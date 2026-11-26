@@ -1,0 +1,4 @@
+interface:
+  display_name: "PIXdesign"
+  short_description: "使用内置参考原图与固定风格提示词，生成夸张长颈长腿的精致三维人偶角色"
+  default_prompt: "使用 $pixdesign，以内置参考图垫图，为我设计一个全新角色。"
