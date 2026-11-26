@@ -1,13 +1,13 @@
-# PIXdesign
+# AI 3D figurine
 
-PIXdesign 是一个 Codex 技能，用于设计夸张长颈、细长腿和大头小身的现代都市 3D 人偶。它通过内置的 imagegen 工具，结合角色参考图与风格提示词，生成黏土皮肤、针织和毛呢质感的原创角色。
+AI 3D figurine 是一个 Codex 技能，用于设计夸张长颈、细长腿和大头小身的现代都市 3D 人偶。它通过内置的 imagegen 工具，结合角色参考图与风格提示词，生成黏土皮肤、针织和毛呢质感的原创角色。
 
 ## 安装与使用
 
-1. 下载完整仓库，把目录命名为 `pixdesign`，放入 `~/.codex/skills/`。如设置了 `CODEX_HOME`，放入 `$CODEX_HOME/skills/`。
-2. 在可使用内置 imagegen 的 Codex 聊天中调用 `$pixdesign`，描述新角色的职业、动作和场景。
+1. 下载完整仓库，把目录命名为 `ai-3d-figurine`，放入 `~/.codex/skills/`。如设置了 `CODEX_HOME`，放入 `$CODEX_HOME/skills/`。
+2. 在可使用内置 imagegen 的 Codex 聊天中调用 `$ai-3d-figurine`，描述新角色的职业、动作和场景。
 
-> 使用 `$pixdesign`，设计一个在办公室敲键盘的程序员，坐姿、单人、竖幅全身构图。
+> 使用 `$ai-3d-figurine`，设计一个在办公室敲键盘的程序员，坐姿、单人、竖幅全身构图。
 
 ## 文件
 
